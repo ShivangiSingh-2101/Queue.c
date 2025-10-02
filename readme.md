@@ -1,4 +1,5 @@
 Program 1
+
 Aim
 
 To implement a Queue using an array in C++ with basic operations such as enqueue (insertion), dequeue (deletion), and display.
@@ -28,8 +29,9 @@ Time Complexity:
 Enqueue: O(1)
 Dequeue: O(1)
 Display: O(n
-
 Space Complexity: O(SIZE)
+
+
 Algorithm
 
 - Enqueue (Insert)
